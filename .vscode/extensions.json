@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-dotnettools.vscode-dotnet-pack",
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "formulahendry.dotnet-test-explorer",
+    "kreativ-software.csharpextensions",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit",
+    "usernamehw.errorlens",
+    "patcx.vscode-nuget-gallery"
+  ]
+}
